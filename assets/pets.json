@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "nome": "Thor",
+    "especie": "Cachorro",
+    "idade": "2 anos",
+    "porte": "Grande",
+    "emoji": "🐕",
+    "foto": "assets/images/thor.jpg",
+    "descricao": "Brincalhão e muito carinhoso. Adora passear no parque."
+  },
+  {
+    "id": 2,
+    "nome": "Mia",
+    "especie": "Gato",
+    "idade": "1 ano",
+    "porte": "Pequeno",
+    "emoji": "🐈",
+    "foto": "assets/images/mia.jpg",
+    "descricao": "Calma e independente. Ótima para apartamentos."
+  },
+  {
+    "id": 3,
+    "nome": "Bolinha",
+    "especie": "Cachorro",
+    "idade": "5 anos",
+    "porte": "Pequeno",
+    "emoji": "🐩",
+    "foto": "assets/images/bolinha.jpg",
+    "descricao": "Tranquilo, ideal para famílias com crianças."
+  },
+  {
+    "id": 4,
+    "nome": "Luna",
+    "especie": "Gato",
+    "idade": "3 meses",
+    "porte": "Pequeno",
+    "emoji": "😺",
+    "foto": "assets/images/luna.jpg",
+    "descricao": "Filhote curioso que adora brincar com bolinhas."
+  },
+  {
+    "id": 5,
+    "nome": "Max",
+    "especie": "Cachorro",
+    "idade": "4 anos",
+    "porte": "Médio",
+    "emoji": "🐶",
+    "foto": "assets/images/max.jpg",
+    "descricao": "Obediente e protetor. Já sabe algumas ordens básicas."
+  },
+  {
+    "id": 6,
+    "nome": "Nina",
+    "especie": "Gato",
+    "idade": "7 anos",
+    "porte": "Médio",
+    "emoji": "🐱",
+    "foto": "",
+    "descricao": "Adulta, carinhosa e muito tranquila."
+  }
+]
